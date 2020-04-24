@@ -1,5 +1,5 @@
 Módulo 01
-¨¨¨¨¨¨¨¨¨
+
 
 - Introdução ao JavaScript
 - Variáveis e dados
@@ -13,7 +13,7 @@ Módulo 01
 
 
 Módulo 02
-¨¨¨¨¨¨¨¨¨
+
 
 - Eventos inline
 - Trabalhando com a DOM
