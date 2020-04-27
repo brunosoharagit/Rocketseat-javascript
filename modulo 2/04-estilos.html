@@ -6,10 +6,25 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <div id="app">
+        <div class="box"></div>
+        <br>
+        <button class="botao">Gerar quadrado</button>
+    </div>
 
     <script>
-        
+        var btnEl = document.querySelector('button');
+
+         btnEl.onclick = function()
+        {
+            var boxEl = document.querySelector('.box');
+
+            boxEl.style.height = '200px';
+            boxEl.style.width = '200px';
+            boxEl.style.backgroundColor = '#00f';
+            boxEl.style.borderRadius = '50px';
+        }
+
     </script>
 </body>
 </html>
