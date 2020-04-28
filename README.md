@@ -19,3 +19,9 @@ Módulo 02
 - Trabalhando com a DOM
 - Lidando com elementos
 - Alterando estilo
+
+
+Módulo 3
+
+
+- Criando uma aplicação
